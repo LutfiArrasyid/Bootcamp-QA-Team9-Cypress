@@ -1,0 +1,11 @@
+{
+    "valid-data": {
+        "valid-email": "sanbercode53@gmail.com",
+        "valid-pwd": "Sanbercodeteam9"
+    },
+    "invalid-data": {
+        "invalid-email": "sanbercode@gmail.com",
+        "invalid-pwd": "sanbercode",
+        "err-msg": ".message-error > div"
+    }
+}
